@@ -77,7 +77,7 @@
 ---- | -----
 [Learn Objective C: The Path to iPhone Development](https://blog.udemy.com/learn-objective-c/) | Udemy 写的文章, 说明了一些学习 Objective-C 的前提条件, Objective-C 的发展历史, 学习方法以及学习资源
 [I Want to Write iOS Apps. Where Do I Start?](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) | 主要对 iOS 的开发环境进行了介绍, 并且涉及到了 Swift 的学习, iOS 上架的注意事项, iOS 的设计, 测试, 代码托管等, 讲解较为广泛, 同时也给出不少学习资源
-[How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/) | 文章写的很有条理, 文中多次强调了版本控制系统的重要性, 主要内容是对学习 iOS 开发到就职, 给出了自己的建议
+[How to become a professional iOS developer](http://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/) | 文章写的很有条理, 文中多次强调了版本控制系统的重要性, 主要内容是对学习 iOS 开发到就职, 给出了自己的建议 有[中文翻译版](http://blog.csdn.net/cloudox_/article/details/52277395)
 [Learning iOS Programming](http://codewithchris.com/learning-ios-programming/) | 作者总结了一些自己学习 iOS 的血的教训, 最后给出了一些不错学习建议
 [Become an iOS Developer](https://www.udacity.com/career-paths/ios-developer) | 作者列举了一些学习 iOS 的方法以及常用的库, 以及自学 iOS 的一些建议
 [iOS 开发如何提高](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips/) | 唐巧写的一篇文章, 主要是对 iOS 技术的提高做的一个总结, 文中不少资源, 工具, 学习方法
